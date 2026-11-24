@@ -6,6 +6,7 @@ My work includes web applications, payments, automation, developer tools, and ha
 
 ## Selected projects
 
+- [Map Vietnam](https://github.com/CaullenOmdahl/map-vietnam): a historical-map research app for investigating possible unexploded ordnance locations and tracing records of service members missing or killed in action (MIA/KIA), using dated overlays, source-linked records, grid-reference conversion, and GeoJSON, KML, and GPX exports.
 - [CaPhe Agentic Stack](https://github.com/CaullenOmdahl/CaPhe-Agentic-Stack): a lean cross-agent development setup with on-demand workflows, per-project configuration, tiered agent profiles, and native verification commands.
 - [WhatsApp Chat Export](https://github.com/CaullenOmdahl/whatsapp-chat-export): a local-first browser extension that exports conversations to HTML, TXT, JSON, or CSV.
 - [GrabNetPrinter](https://github.com/CaullenOmdahl/grab-netprinter): an Android LSPosed module connecting a POS app's Bluetooth printer interface to a LAN ESC/POS printer.
